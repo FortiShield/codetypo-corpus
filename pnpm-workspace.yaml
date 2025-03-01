@@ -1,0 +1,8 @@
+---
+packages:
+  - codetypo-dict-file-checker
+  - dictionaries/*
+  - dictionaries/*/scripts
+  - packages/*
+  - generator-codetypo-dicts
+  - scripts
